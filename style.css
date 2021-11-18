@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    padding: 0px;
+}
+body{
+    background-color:#8e44ad;
+}
+h1, p ,a{
+    color: #fff;
+    
+}
+.form{
+    background-color: black;
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 100px;
+    text-align: center;
+    border:3px solid #4A538B;
+}
+a{
+    display: inline-block;
+}
+input{
+    width: 244px;
+    height: 26px;
+    border:2px solid #4A538B;
+    outline: hidden;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+}
+.bt{
+    border:1px solid green ;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
